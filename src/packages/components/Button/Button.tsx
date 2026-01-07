@@ -1,1 +1,1 @@
-export function Button(){return <div>Button</div>;}
+export function Button(){ return <div>Button</div>; }

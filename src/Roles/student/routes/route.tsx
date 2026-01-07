@@ -1,4 +1,11 @@
-// Auto-generated routes for role: student
+import { Route } from "react-router-dom";
 
-export const studentRoutes = [
-];
+export default function studentRoutes() {
+  return (
+    <Route path="/student">
+        
+        
+        {/* MODULE_ROUTES */}
+    </Route>
+  );
+}
